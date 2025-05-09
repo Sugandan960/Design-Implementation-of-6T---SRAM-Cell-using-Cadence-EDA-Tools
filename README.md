@@ -1,6 +1,6 @@
 # Ex No: 04 - Design & Implementation of 6T SRAM Cell Using Cadence EDA Tools
-NAME : JAYA VISHAL M
-212223060102
+NAME : Sugandan.N
+       212222060260
 ## Aim
 The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools and verify its functionality through transient analysis simulation.
 
